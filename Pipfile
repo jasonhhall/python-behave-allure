@@ -8,6 +8,8 @@ allure-pytest = "*"
 allure-behave = "*"
 pytest = "*"
 selenium = "*"
+behave = "*"
+pyhamcrest = "*"
 
 [dev-packages]
 
